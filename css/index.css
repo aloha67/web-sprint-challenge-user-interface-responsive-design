@@ -91,6 +91,20 @@ header {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    margin-bottom: 2rem;
+}
+
+.header-style {
+    background-color: rgba(0, 0, 0,0.8);
+    padding: 3rem;
+}
+
+.header-style--title a{
+    text-align: center;
+    color: white;
+    font-size: 5.8rem;
+    margin-bottom: 2rem;
+    color: white;
 }
 
 /* spacers */
